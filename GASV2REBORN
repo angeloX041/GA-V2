@@ -3795,3 +3795,15 @@ Credits:Button("https://discord.gg/YP2NtCUwUD",function()
 print ("Join our Discord!")
 
 end)
+
+Credits:Button("Our Website https://www.gasware.xyz/",function()
+
+print ("Join our Discord!")
+
+end)
+
+Credits:Button("Our Crew roblox.com/groups/12304475/Blood-X-community#!/about",function()
+
+print ("Join our Discord!")
+
+end)
