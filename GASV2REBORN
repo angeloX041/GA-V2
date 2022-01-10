@@ -4,7 +4,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 Title = "GA$ V2 REBORN",     
 
-Text = "Join GA$ https://discord.gg/77MfmAjEdS",
+Text = "Join GA$ .gg/YP2NtCUwUD",
 
 Button1 = "🔵",
 
@@ -3790,8 +3790,8 @@ print ("GA$ WIN")
 
 end)
 
-Credits:Button("discord.gg/77MfmAjEdS",function()
+Credits:Button("https://discord.gg/YP2NtCUwUD",function()
 
-print ("Join https://discord.gg/77MfmAjEdS")
+print ("Join our Discord!")
 
 end)
