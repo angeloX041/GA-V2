@@ -3790,7 +3790,7 @@ print ("GA$ WIN")
 
 end)
 
-Credits:Button("https://discord.gg/YP2NtCUwUD",function()
+Credits:Button("https://discord.gg/jp5Puv4tWT",function()
 
 print ("Join our Discord!")
 
