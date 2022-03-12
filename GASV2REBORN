@@ -2,7 +2,7 @@ print("HavenRBX Is a qt")
 
 game:GetService("StarterGui"):SetCore("SendNotification",{     
 
-Title = "GA$ V2 REBORN",     
+Title = "GA$ V2.1 REBORN",     
 
 Text = "Join GA$ .gg/YP2NtCUwUD",
 
@@ -3672,11 +3672,15 @@ if game.CoreGui:FindFirstChild("Library") then
 
 -- oofhead should stop making jokes
 
-local Win = VLib:Window("GA$ ", "v2.0")
+local Win = VLib:Window("GA$ ", "v2.1")
 
 
 
 local Main= Win:Tab('Main')
+
+Main:Button("VORTZ LOCK",function()
+
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/angeloX041/0XIGENWARE/main/VORTZ'))()
 
 Main:Button("AimWare (Q)",function()
 
